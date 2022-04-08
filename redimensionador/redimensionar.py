@@ -3,8 +3,8 @@ from design import *
 from PyQt5.QtWidgets import QMainWindow, QApplication, QFileDialog
 from PyQt5.QtGui import QPixmap
 
-caminho = 'C:/Users/Paulo/OneDrive/Imagens'
-caminho_final = 'C:/Users/Paulo/OneDrive/Área de Trabalho'
+caminho = ''
+caminho_final = ''
 
 
 class Novo(QMainWindow, Ui_MainWindow):
